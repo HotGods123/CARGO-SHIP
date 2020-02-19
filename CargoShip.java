@@ -18,6 +18,6 @@ public class CargoShip extends CruiseShip
 	}
 	public String toString()
 	{
-		
+		return name + YearBuilt + tonnage;
 	}
 }

@@ -18,6 +18,6 @@ public class CruiseShip extends Ship
 	}
 	public String toString()
 	{
-		
+		return name + YearBuilt + passengers;
 	}
 }
